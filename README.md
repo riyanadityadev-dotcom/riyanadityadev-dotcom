@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Riyan Aditya
 
-<!--
-**riyanadityadev-dotcom/riyanadityadev-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web Developer** · AI-assisted development
+Informatics student at Universitas Mitra Indonesia.
 
-Here are some ideas to get you started:
+I build web systems with AI-assisted workflows, choosing the stack that fits the problem,
+from business requirement to a working product. I'm also interested in AI
+integration and workflow automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+See my pinned repositories and my portfolio for selected work.
+
+## Contact
+[Portfolio](link) · [LinkedIn](link) · [Email](mailto:riyan.aditya.dev@gmail.com)
