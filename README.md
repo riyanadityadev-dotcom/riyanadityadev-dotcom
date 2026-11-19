@@ -11,4 +11,4 @@ integration and workflow automation.
 See my pinned repositories and my portfolio for selected work.
 
 ## Contact
-[Portfolio](link) · [LinkedIn](link) · [Email](mailto:riyan.aditya.dev@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/riyan-aditya/) · [Email](mailto:riyan.aditya.dev@gmail.com)
